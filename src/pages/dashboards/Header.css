@@ -1,0 +1,25 @@
+/* Header styling */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #5fafffb4; /* Header background color */
+    padding: 10px 20px;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 300px;  /* Adjust the logo size */
+    height: auto;
+  }
+  
+  .site-name {
+    font-size: 1.5rem;
+    font-weight: bold; /* Bold the site name */
+    color: white;
+  }
+  
